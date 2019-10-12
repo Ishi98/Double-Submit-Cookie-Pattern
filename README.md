@@ -6,3 +6,19 @@ This applicaation can be deployed,
  2. In Windows by using XAMPP, the folder should be copied to /httpdocs folder
 
 The login credentials are mentioned in the readme.txt file
+
+
+
+
+
+
+
+
+
+References:
+
+""" Title: double-submit-cookie-pattern-csrf
+Author: Kavinda, Harsha
+Date: 2018
+Code version: 
+Availability: https://github.com/Harshakavin/double-submit-cookie-pattern-csrf.git """
