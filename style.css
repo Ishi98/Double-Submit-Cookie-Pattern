@@ -1,0 +1,57 @@
+.box {
+    width: 500px;
+    margin: 200px 0;
+}
+
+.shape1{
+    position: relative;
+    height: 300px;
+    width: 600px;
+    background-color: #8A28E2;
+    float: left;
+    margin-right: -45px;
+    margin-top:-40px;
+    margin-left:-25px;
+    
+}
+
+.float {
+    position: absolute;
+    z-index: 2;
+}
+
+.form {
+    margin-left: 145px;
+}
+
+h1{
+   color:white;
+   font-family: "calibri";
+   margin-top: 70px;
+   margin-bottom: -40px;
+}
+
+body{
+   background-color: plum ; 
+}
+
+.textArea{
+   height: 100px;
+   width:400px;
+   margin-left:-45px;
+}
+
+.label{
+   margin-left:-45px; 
+   color:white; 
+
+}
+
+#submit2{
+   margin-left: 257px;
+   height:30px;
+   width:100px;
+   padding:5px;
+   font-size:14px;
+   
+}
